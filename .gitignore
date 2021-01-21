@@ -9,7 +9,7 @@ logs
 api.http
 
 # dotenv
-.env
+# .env
 .env.test
 
 public/
